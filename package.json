@@ -26,9 +26,9 @@
     "validator": "^13.7.0"
   },
   "devDependencies": {
+    "node-pre-gyp": "^0.17.0",
     "nodemon": "^2.0.22"
   },
-
   "engines": {
     "node": "18.x"
   }
